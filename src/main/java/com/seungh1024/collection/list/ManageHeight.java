@@ -1,6 +1,6 @@
 package com.seungh1024.collection.list;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class ManageHeight {
     private ArrayList<ArrayList<Integer>> gradeHeights;
