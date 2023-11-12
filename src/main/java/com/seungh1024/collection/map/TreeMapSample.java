@@ -25,7 +25,7 @@ public class TreeMapSample {
 
         TreeMap<Test, Integer> testMap = new TreeMap<>();
 //        HashMap<Test, Integer> testMap = new HashMap<>();
-        testMap.put(new Test(4),3);
+        testMap.put(new Test(3),3);
         testMap.put(new Test(3),3);
         testMap.put(new Test(2),2);
         testMap.put(new Test(1),1);
